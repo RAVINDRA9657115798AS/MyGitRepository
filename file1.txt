@@ -1,9 +1,9 @@
 This is my first Git....Welcome to Git.......!
 class HelloGit{
 
-main(){
+public static void main(String str[]){
 
      Syso("Hello Git.....!!!");
 
-}
+     }
 }
