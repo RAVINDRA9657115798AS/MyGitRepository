@@ -3,6 +3,11 @@ class HelloGit{
 
 public static void main(String str[]){
 
+
+showDate(){
+    syso("date show"); 
+  }
+
      System.out.println("Hello Git.....!!!");
 
      }
