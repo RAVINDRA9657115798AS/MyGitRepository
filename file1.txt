@@ -16,7 +16,7 @@ public static void main(String str[]){
     }
 public static void myBigMethod(){
 
-Syso("Has method impl");
+System.out.println("Has method impl");
 
 } 
 }
