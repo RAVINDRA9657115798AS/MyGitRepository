@@ -1,14 +1,16 @@
 This is my first Git....Welcome to Git.......!
 class HelloGit{
 
+
+
+   void helloGit(){
+  
+  Syso("Hello Git...Welcome");
+}
+
+
 public static void main(String str[]){
 
-
-showDate(){
-    syso("date show"); 
-  }
-
-     System.out.println("Hello Git.....!!!");
-
-     }
+    
+    }
 }
